@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "木星のビート",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-01-03T14:00:30.422933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "木星のビート - ver.P丸様。",
+      "artist": "P丸様｡/Nayutalien",
+      "has_synced": true,
+      "path": "select/01_木星のビート_-_ver.P丸様。_P丸様。_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "木星のビート (ver.P丸様。)",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/02_木星のビート_(ver.P丸様。)_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "木星のビート [ver. P丸様。]",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/03_木星のビート_[ver._P丸様。]_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "木星のビート (ver.P丸様。)",
+      "artist": "P丸様。",
+      "has_synced": false,
+      "path": "select/04_木星のビート_(ver.P丸様。)_P丸様。.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "木星のビート",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": false,
+      "path": "select/05_木星のビート_NayutalieN_(ナユタン星人).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木星のビート",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_木星のビート_ナユタン星人.txt"
+    }
+  ]
+}
